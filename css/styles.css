@@ -1,0 +1,190 @@
+body{
+
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+
+
+}
+h1{
+margin: auto;
+  font-size:5.6em;
+  font-family: 'Mr Dafoe', cursive;
+  font-weight: normal;
+  color:#66bfbf;
+  padding-bottom: 2rem;
+
+}
+h2{
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: normal;
+  color:#66bfbf;
+  padding-bottom: 30px;
+}
+h3{
+  font-family: 'Roboto', sans-serif;
+  color:#11999E;
+  margin: 0px auto 10px auto;
+  font-weight: normal;
+}
+p,dd{
+  font-family: 'Roboto', sans-serif;
+
+  color: #40514e;
+  margin:0px 0px;
+  line-height: 1.4rem;
+}
+hr{
+  border-top: 6px dotted #eaf6f6;
+  width: 10%;
+  border-bottom: 0;
+  margin: 3rem auto;
+  clear:both;
+}
+table{
+  /* width:60%; */
+  margin:auto;
+}
+
+.sub-pro{
+  font-size: 2rem;
+  margin: 0 auto;
+}
+.connie-img{
+  width: 150px;
+  height:150px;
+
+}
+.trans{
+  opacity: 0.2;
+}
+
+
+.top-container{
+  /*background-color: #e4f9f5;*/
+  background-color: #eaf6f6;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  display: block;
+  position: relative;
+  /* z-index: -1; */
+}
+.middle-container{
+  margin-top: 40px;
+
+}
+.bottom-container{
+background-color:#66bfbf;
+padding-top: 40px;
+padding-bottom: 25px;
+margin:auto
+}
+
+.pro{
+  text-decoration:underline;
+  line-height: 2;
+}
+.brand{
+  height:40%;
+  width:40%;
+}
+
+a{
+  color: #11999E;
+  margin: 0 20px 40px 0;
+}
+
+.emphasis,.trans,.trans1{
+  color:#db6400;
+}
+
+
+.summary-div{
+  border:6px solid #db6400;
+  border-style: none solid;
+  width:80%;
+  margin:auto;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.summary-p,.dd-p{
+  margin:auto;
+  padding-left:20px;
+  padding-right: 20px;
+  text-align:justify;
+}
+.skill-row1{
+  margin:100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2{
+  margin:100px auto;
+  text-align: right;
+  line-height: 2;
+}
+.skills{
+  position:relative;
+  left:25%;
+  margin-bottom:100px;
+
+}
+.contact-me{
+  width: 80%;
+  text-align: center;
+  margin:auto;
+}
+.BUTTON_MOH {
+   border-radius: 10px;
+   color: #FFFFFF;
+   padding: 10px 25px 10px 25px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   font-family: 'Fjalla One', sans-serif;
+   font-weight:lighter;
+   font-size: 0.8rem;
+   margin:40px auto 60px auto;
+}
+
+.BUTTON_MOH:hover {
+   border-radius: 10px;
+   text-decoration: none;
+   background: #db6400;
+  border: solid #FFFFFF 1px;
+
+
+}
+.footer-link{
+  margin: 0 20px 40px 0;
+  font-size: 0.6rem;
+  text-decoration: none;
+
+}
+
+.footer-link:hover{
+  color:#f5a25d;
+
+}
+p.gao{
+  font-size:0.6rem;
+  color:#eaf6f6;
+  /* margin: 40px auto 30px auto; */
+
+}
+.linkein-img{
+  width:3%;
+  height:3%;
+  display: inline-block;
+}
+.wechat-img{
+  width:3%;
+  height:3%;
+  display: inline-block;
+}
+.facebook-img{
+  width:3%;
+  height:3%;
+  display: inline-block;
+}
